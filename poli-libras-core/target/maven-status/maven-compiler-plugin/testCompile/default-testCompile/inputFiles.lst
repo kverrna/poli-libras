@@ -1,0 +1,17 @@
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/ObjectFinderTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/transforms/SecondPersonTransformTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/translator/TranslatorTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/LinkingVerbFinderTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/VerbFinderTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/transforms/PruneTransformTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/SynTransfPortLibrasTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/suites/AllTests.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/SubjectFinderTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/transforms/AdverbTaggerTransformTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/transforms/AdverbIncorporationTransformTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/TokenConverterTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/contextualiser/ContextualiserTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/translator/ManualTranslatorTester.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/dic/DicTester.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/dic/DicTest.java
+/home/felipe/github/poli-libras/poli-libras-core/test/br/usp/libras/syntax/transforms/OrderChangerTest.java
